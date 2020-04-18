@@ -20,4 +20,5 @@
         <activity android:name=".MainActivity" android:screenOrientation="locked" android:windowSoftInputMode="stateHidden" />
     </application>
 
+
 </manifest>

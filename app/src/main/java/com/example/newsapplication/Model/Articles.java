@@ -76,7 +76,7 @@ public class Articles {
     }
 
     public String getUrlToImage() {
-        return "@drawable/gradient";
+        return urlToImage;
     }
 
     public void setUrlToImage(String urlToImage) {

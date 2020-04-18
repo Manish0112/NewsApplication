@@ -43,7 +43,7 @@ public class Detailed extends AppCompatActivity {
         String time = intent.getStringExtra("time");
         String desc = intent.getStringExtra("desc");
         String imageUrl = intent.getStringExtra("imageUrl");
-        String url = "";
+        String url = intent.getStringExtra("url");
         System.out.println("#############################################");
         System.out.println(imageUrl);
 
